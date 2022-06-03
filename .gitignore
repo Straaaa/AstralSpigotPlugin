@@ -1,0 +1,3 @@
+# プロジェクトの除外パス
+/AstralGamePayload/.gradle/
+/AstralGamePayload/build/

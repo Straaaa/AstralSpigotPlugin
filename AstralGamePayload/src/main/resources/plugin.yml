@@ -1,0 +1,4 @@
+name: AstralGamePayload
+version: 1
+main: io.github.straaaa.astralgamepayload.Main
+api-version: 1.12
